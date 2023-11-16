@@ -32,7 +32,7 @@ ol {
 
 .my-profession {
     color: #000;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 17px;
     margin-top: 0;
@@ -240,11 +240,39 @@ ol {
     margin-right: 8px;
 }
 
-.contacts-link {
+.contacts-link-phone {
     color: #2979FF;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
+    margin-left: 20px;
+    text-decoration-line: underline ;
+}
+
+.contacts-link-location {
+    color: #2979FF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 8px;
+    text-decoration-line: underline ;
+}
+
+.contacts-link-email {
+    color: #2979FF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 24px;
+    text-decoration-line: underline ;
+}
+
+.contacts-link-linkedin {
+    color: #2979FF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 8px;
     text-decoration-line: underline ;
 }
 
